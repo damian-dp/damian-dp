@@ -1,4 +1,5 @@
-<pre style="text-align: center;">
+<div style="text-align: center;">
+<pre>
 
                            ___           ___           ___       ___       ___     
                           /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -13,3 +14,4 @@
                           \/__/         \/__/         \/__/     \/__/     \/__/    
 
 </pre>
+</div>
