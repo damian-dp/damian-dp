@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./assets/css/style.css">
-
 <pre>
 
                                ___           ___           ___       ___       ___     
@@ -15,6 +13,9 @@
                               \/__/         \/__/         \/__/     \/__/     \/__/    
 
 </pre>
+
+
+<link rel="stylesheet" href="./assets/css/style.css">
 
 ### Front End: 
 
