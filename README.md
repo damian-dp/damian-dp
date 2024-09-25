@@ -27,7 +27,7 @@ src="./img/JAVASCRIPT.svg"/>
 <img style="height: 30px;" 
 src="./img/REACT.svg"/>
 <img style="height: 30px;" 
-src="./img/GSAP3.svg"/>
+src="./img/GSAP.svg"/>
 <img style="height: 30px;" 
 src="./img/VITE.svg"/>
 
@@ -35,62 +35,41 @@ src="./img/VITE.svg"/>
 ### Back-end:
 
 <img style="height: 30px;" 
-src="./img/HTML5.svg"/>
+src="./img/NODEJS.svg"/>
 <img style="height: 30px;" 
-src="./img/CSS3.svg"/>
+src="./img/EXPRESSJS.svg"/>
 <img style="height: 30px;" 
-src="./img/JAVASCRIPT.svg"/>
+src="./img/PYTHON.svg"/>
 <img style="height: 30px;" 
-src="./img/REACT.svg"/>
-<img style="height: 30px;" 
-src="./img/GSAP3.svg"/>
-<img style="height: 30px;" 
-src="./img/VITE.svg"/>
+src="./img/FLASK.svg"/>
 
 
 ### Database:
 
 <img style="height: 30px;" 
-src="./img/HTML5.svg"/>
+src="./img/POSTGRESQL.svg"/>
 <img style="height: 30px;" 
-src="./img/CSS3.svg"/>
+src="./img/MONGODB.svg"/>
 <img style="height: 30px;" 
-src="./img/JAVASCRIPT.svg"/>
+src="./img/SUPABASE.svg"/>
 <img style="height: 30px;" 
-src="./img/REACT.svg"/>
-<img style="height: 30px;" 
-src="./img/GSAP3.svg"/>
-<img style="height: 30px;" 
-src="./img/VITE.svg"/>
+src="./img/FIREBASE.svg"/>
 
 
 ### Deployment:
 
 <img style="height: 30px;" 
-src="./img/HTML5.svg"/>
+src="./img/VERCEL.svg"/>
 <img style="height: 30px;" 
-src="./img/CSS3.svg"/>
+src="./img/NETLIFY.svg"/>
 <img style="height: 30px;" 
-src="./img/JAVASCRIPT.svg"/>
-<img style="height: 30px;" 
-src="./img/REACT.svg"/>
-<img style="height: 30px;" 
-src="./img/GSAP3.svg"/>
-<img style="height: 30px;" 
-src="./img/VITE.svg"/>
+src="./img/AWS.svg"/>
 
 
 ### Design:
 
 <img style="height: 30px;" 
-src="./img/HTML5.svg"/>
+src="./img/FIGMA.svg"/>
 <img style="height: 30px;" 
-src="./img/CSS3.svg"/>
-<img style="height: 30px;" 
-src="./img/JAVASCRIPT.svg"/>
-<img style="height: 30px;" 
-src="./img/REACT.svg"/>
-<img style="height: 30px;" 
-src="./img/GSAP3.svg"/>
-<img style="height: 30px;" 
-src="./img/VITE.svg"/>
+src="./img/ACC.svg"/>
+
