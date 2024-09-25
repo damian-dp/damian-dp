@@ -71,5 +71,5 @@ src="./img/AWS.svg"/>
 <img style="height: 30px;" 
 src="./img/FIGMA.svg"/>
 <img style="height: 30px;" 
-src="./img/ACC.svg"/>
+src="./img/ACC2.svg"/>
 
