@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/style.css">
+
 <pre>
 
                                ___           ___           ___       ___       ___     
@@ -23,15 +25,6 @@ src="https://img.shields.io/badge/HTML-212121?style=for-the-badge&logo=html5&log
 <img style="border-radius: 5px; height: 30px;" 
 src="https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react&logoColor=white"/>
 <img style="height: 30px;" 
-src="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=JavaScript&logoColor=white&rectRadius=8"/>
-
-<style>
-
-img {
-     border_radius: 10px;
-}
-
-</style>
-
+src="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 
