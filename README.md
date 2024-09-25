@@ -14,36 +14,34 @@
 
 </pre>
 
-Front-end:
----
+### Front-end:
 
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/HTML5.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/CSS3.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/JAVASCRIPT.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/REACT.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/GSAP3.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/VITE.svg"/>
 
 </br>
 
-Back-end:
----
+#### Back-end:
 
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/HTML5.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/CSS3.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/JAVASCRIPT.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/REACT.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/GSAP3.svg"/>
-<img style="height: 30px; margin-right: 2px;" 
+<img style="height: 30px;" 
 src="./img/VITE.svg"/>
