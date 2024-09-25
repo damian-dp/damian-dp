@@ -17,17 +17,17 @@
 Front-end:
 ---
 
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/HTML5.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/CSS3.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/JAVASCRIPT.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/REACT.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/GSAP3.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/VITE.svg"/>
 
 </br>
@@ -35,15 +35,15 @@ src="./img/VITE.svg"/>
 Back-end:
 ---
 
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/HTML5.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/CSS3.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/JAVASCRIPT.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/REACT.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/GSAP3.svg"/>
-<img style="height: 30px;" 
+<img style="height: 30px; margin-right: 2px;" 
 src="./img/VITE.svg"/>
