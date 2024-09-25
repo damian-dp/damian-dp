@@ -14,6 +14,8 @@
 
 </pre>
 
+## Stack
+
 ### Front-end:
 
 <img style="height: 30px;" 
@@ -29,7 +31,7 @@ src="./img/GSAP3.svg"/>
 <img style="height: 30px;" 
 src="./img/VITE.svg"/>
 
----
+</br>
 
 ### Back-end:
 
@@ -45,5 +47,3 @@ src="./img/REACT.svg"/>
 src="./img/GSAP3.svg"/>
 <img style="height: 30px;" 
 src="./img/VITE.svg"/>
-
----
