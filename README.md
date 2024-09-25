@@ -19,7 +19,7 @@
 ### Front-end:
 
 <img style="height: 30px;" 
-src="./img/HTML5.svg"/>
+src="./img/HTML.svg"/>
 <img style="height: 30px;" 
 src="./img/CSS3.svg"/>
 <img style="height: 30px;" 
@@ -71,5 +71,5 @@ src="./img/AWS.svg"/>
 <img style="height: 30px;" 
 src="./img/FIGMA.svg"/>
 <img style="height: 30px;" 
-src="./img/ACC2.svg"/>
+src="./img/ACC.svg"/>
 
