@@ -16,6 +16,8 @@
 
 ### Front-end:
 
+---
+
 <img style="height: 30px;" 
 src="./img/HTML5.svg"/>
 <img style="height: 30px;" 
@@ -31,8 +33,8 @@ src="./img/VITE.svg"/>
 
 </br>
 
-#### Back-end:
-
+### Back-end:
+---
 <img style="height: 30px;" 
 src="./img/HTML5.svg"/>
 <img style="height: 30px;" 
