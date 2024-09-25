@@ -14,9 +14,6 @@
 
 </pre>
 
-
-<link rel="stylesheet" href="./assets/css/style.css">
-
 ### Front End: 
 
 <img style="border-radius: 5px!important; height: 30px;" 
@@ -28,4 +25,9 @@ src="https://img.shields.io/badge/React-212121?style=for-the-badge&logo=react&lo
 <img style="height: 30px;" 
 src="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
-
+<style>
+     img {
+          border-radius: 10px;
+          width: 10px;
+     }
+</style>
